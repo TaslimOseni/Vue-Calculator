@@ -1,4 +1,4 @@
-# atlas-calculator
+# vue-calculator
 
 ## Project setup
 ```
